@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900253556681",
+    "project_id": "notifremota-55a10",
+    "storage_bucket": "notifremota-55a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900253556681:android:a18924b2e570020987d218",
+        "android_client_info": {
+          "package_name": "mx.itesm.ag.notifremota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900253556681-rs0uhgcl5c7nefv92s0g2h6s24dppfvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQMCE7_NSxZfDAteOi0WLQK6IqRWq6ni8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900253556681-rs0uhgcl5c7nefv92s0g2h6s24dppfvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
